@@ -1,0 +1,47 @@
+--- Digital Library System ---
+1. Add a Book
+2. View Available Books
+3. Borrow a Book
+4. Return a Book
+5. View Borrowed Books
+6. Exit
+Please select an option: 1
+Enter book title: Python Programming
+Enter book author: John Doe
+Book 'Python Programming' by John Doe added to the library.
+
+--- Digital Library System ---
+1. Add a Book
+2. View Available Books
+3. Borrow a Book
+4. Return a Book
+5. View Borrowed Books
+6. Exit
+Please select an option: 2
+
+Available Books:
+ID: 1, Title: Python Programming, Author: John Doe
+
+--- Digital Library System ---
+1. Add a Book
+2. View Available Books
+3. Borrow a Book
+4. Return a Book
+5. View Borrowed Books
+6. Exit
+Please select an option: 3
+Enter your name: Alice
+Enter book ID to borrow: 1
+Alice successfully borrowed 'Python Programming' by John Doe.
+
+--- Digital Library System ---
+1. Add a Book
+2. View Available Books
+3. Borrow a Book
+4. Return a Book
+5. View Borrowed Books
+6. Exit
+Please select an option: 5
+
+Borrowed Books:
+User: Alice, Book: Python Programming by John Doe
